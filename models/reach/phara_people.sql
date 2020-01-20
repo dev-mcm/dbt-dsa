@@ -1,6 +1,6 @@
 {{
-    config(materialized='table',
-    tags=["reach"]
+    config(
+        tags=["reach"]
     )
 }}
 
